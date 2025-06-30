@@ -1,3 +1,3 @@
 # GO_ping
 
-simple api using openapi go codegen + echo
+simple ping api using openapi go codegen + echo
